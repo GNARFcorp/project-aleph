@@ -6,6 +6,18 @@ map{ id = "dungeon1/slime_room", description = "slime room" }
 map{ id = "first_map", description = "First map" }
 
 tileset{ id = "castle", description = "Castle" }
+tileset{ id = "cave", description = "Cave" }
+tileset{ id = "dungeon_blue", description = "Dungeon (blue)" }
+tileset{ id = "dungeon_grayblue", description = "Dungeon (gray-blue)" }
+tileset{ id = "dungeon_graybrown", description = "Dungeon (gray-brown)" }
+tileset{ id = "house", description = "House" }
+tileset{ id = "ice_brightblue", description = "Ice (bright blue)" }
+tileset{ id = "ice_brown", description = "Ice (brown)" }
+tileset{ id = "light_world", description = "Light World" }
+tileset{ id = "palace_purple", description = "Palace (purple)" }
+tileset{ id = "temple_blue", description = "Temple (blue)" }
+tileset{ id = "temple_green", description = "Temple (green)" }
+tileset{ id = "temple_yellow", description = "Temple (yellow)" }
 
 sprite{ id = "animals/bird_red", description = "Red Bird" }
 sprite{ id = "animals/cat_green", description = "Green Cat" }
